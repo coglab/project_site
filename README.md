@@ -2,4 +2,4 @@
 
 ## My title
 
-**bold text **
+**bold text**
